@@ -3,7 +3,7 @@ const sourcemaps = require('gulp-sourcemaps');
 const babel = require('gulp-babel');
 const concat = require('gulp-concat');
 
-gulp.task('defailt', () => {
+gulp.task('default', () => {
   return gulp.src('app/*.jsx')
     .pipe(sourcemaps.init())
     .pipe(babel({
