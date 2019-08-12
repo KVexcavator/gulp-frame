@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KVexcavator/gulp-frame/issues"
   },
-  "homepage": "https://github.com/KVexcavator/gulp-frame#readme"
+  "homepage": "https://github.com/KVexcavator/gulp-frame#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
