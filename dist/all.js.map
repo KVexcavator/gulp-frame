@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.jsx"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"all.js","sourcesContent":["import React from 'react';\nimport ReactDOM from 'react-­dom';\nReactDOM.render(\n  <h1>Hello, world!</h1>,\n  document.getElementById('example')\n);"]}
